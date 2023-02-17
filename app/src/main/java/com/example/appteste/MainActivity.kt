@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //change something
         //está a funcionar :)
+        //o xico alterou isto
     }
 }
